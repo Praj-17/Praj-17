@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praj-17&label=Profile%20views&color=0e75b6&style=flat" alt="praj-17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praj-17" alt="praj-17" /></a> </p>
+<p align="left"> <a href='https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2'><img src="https://github-profile-trophy.vercel.app/?username=praj-17" alt="praj-17" /></a> </p>
 <img align="right" alt="Coding" width="400" src='https://indoanalytica.com/static/images/data-science-2.gif'>
 
 
